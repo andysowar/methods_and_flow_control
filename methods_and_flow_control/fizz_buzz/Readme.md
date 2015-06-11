@@ -1,3 +1,5 @@
+# Fizz Buzz
+
 • There is a common interview question called FizzBuzz. For this homework assignment, implement FizzBuzz.
 
 • Create a program called "fizz_buzz.rb"
